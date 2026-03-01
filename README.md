@@ -1,5 +1,7 @@
 # 🕵️ RKHUNTER LIVE — Malware Detection Training Platform
 
+![alt text](Screenshots/RKHUNTER_Logo.png)
+
 ![RKHUNTER LIVE](https://img.shields.io/badge/RKHUNTER_LIVE-Malware_Detection_Training-ffb300?style=for-the-badge&logo=virustotal&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,6 +56,8 @@ This project is a comprehensive malware detection training platform that simulat
 | **AIDE**       | File integrity monitoring               | Hash baseline comparison                          |
 | **Lynis**      | Security auditing                       | Configuration hardening                           |
 
+![alt text](<Screenshots/Live Scanner Terminal.png>)
+
 ### **Scanner Features** 📊
 
 - **Realistic terminal output** with color-coded warnings
@@ -97,6 +101,8 @@ Each method includes a **click-to-expand** live terminal demo showing:
 - Critical findings highlighted in red
 - Explanatory notes
 
+![alt text](<Screenshots/Detection Methods Lab.png>)
+
 ---
 
 ## 📋 **Module 03: Results Analyzer**
@@ -122,6 +128,8 @@ Each method includes a **click-to-expand** live terminal demo showing:
 - **Score tracking** (X/8 correct)
 - **Color-coded results** in findings list
 - **Reset capability** for repeated practice
+
+![alt text](<Screenshots/Scan Results Analyzer.png>)
 
 ---
 
@@ -156,6 +164,8 @@ Each family includes:
 - **Equation Group HDD (2015)** — NSA-linked group implanted HDD firmware, surviving full wipe
 - **TDL-4 (2010)** — Infected 4.5M+ machines with MBR bootkit
 - **Reptile (2018+)** — Modern LKM rootkit with port-knocking backdoor
+
+![alt text](<Screenshots/Rootkit Family Catalog.png>)
 
 ---
 
@@ -192,6 +202,8 @@ Hidden PID: 1247 (/usr/sbin/.backdoor --port 4444)
 Hidden PID: 1248 (/tmp/.snd -c 185.220.x.x:8080)
 Hidden PID: 3341 (nc -lvp 31337)
 ```
+
+![alt text](<Screenshots/Hunt Missions.png>)
 
 ---
 
