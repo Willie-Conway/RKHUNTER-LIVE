@@ -15,21 +15,8 @@
 
 ---
 
-## 📋 Repository Info
-
-### **About** 🕵️
-
-**RKHUNTER LIVE** is an immersive, interactive training platform for learning rootkit detection and malware forensics on Linux systems. Featuring a fully simulated rkhunter, chkrootkit, AIDE, and Lynis environment, this platform allows security professionals and students to practice identifying kernel rootkits, bootkits, userland rootkits, memory-resident malware, firmware implants, and hypervisor-level threats — all in a safe, sandboxed environment. 🔍
-
-### **Website** 🌐
-
-https://willie-conway.github.io/RKHUNTER-LIVE/
-
-### **Topics** 🏷️
-
-`linux-security` `rootkit-detection` `malware-analysis` `forensics` `incident-response` `rkhunter` `chkrootkit` `aide` `lynis` `kernel-rootkit` `bootkit` `memory-forensics` `volatility` `lime` `file-integrity-monitoring` `mbr-analysis` `syscall-hooking` `process-hiding` `backdoor-detection` `threat-hunting`
-
----
+### Overview
+This project is a comprehensive malware detection training platform that simulates real-world rootkit hunting scenarios. It provides hands-on experience with detection tools, forensic analysis, and threat intelligence through interactive modules.
 
 ## ✨ Key Features
 
