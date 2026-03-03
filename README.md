@@ -455,11 +455,7 @@ MIT License — see LICENSE file for details.
   <strong>🕵️ RKHUNTER LIVE — Train Like a Digital Forensic Investigator 🕵️</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILT_WITH-❤️-ffb300?style=for-the-badge&labelColor=0a0c14" />
-  <img src="https://img.shields.io/badge/FOR-Linux_Forensics-00e676?style=for-the-badge&labelColor=0a0c14" />
-  <img src="https://img.shields.io/badge/TRY_IT_LIVE-00e5ff?style=for-the-badge&labelColor=0a0c14" />
-</p>
+
 
 ---
 
